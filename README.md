@@ -30,10 +30,10 @@ Nos interesa trabajar en los siguientes *Objetivos de Desarrollo Sostenible (ODS
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/LuisAcosta.jpeg" width="90" height="90"/> | *Acosta Portales Luis Julio* | Delegado del Grupo | Ingeniería Biomédica |
 | <img src="/Recursos/Imágenes/RoggerAgurto.jpeg" width="90" height="90"/> | *Agurto Romero Rogger Leonardo* | Responsable de investigación | Ingeniería Biomédica |
-| <img src="/Recursos/Imágenes/IsabelGomez.jpeg" width="90" height="90"/> | *Gómez Vargas Isabel Ángeles* | Diseñador/a | Ingeniería Biomédica |
-| <img src="/Recursos/Imágenes/GreciaGutierrez.jpeg" width="90" height="90"/> | *Gutiérrez Pacuri Grecia Valentina* | Encargado/a de documentación | Ingeniería Biomédica |
-| <img src="/Recursos/Imágenes/NataliBaquerizo.jpeg" width="90" height="90"/> | *Baquerizo Dávila Natalia Andrea* | Programador/a - Modelador/a | Ingeniería Biomédica |
-| <img src="/Recursos/Imágenes/DimasAquino.jpeg" width="90" height="90"/> | *Aquino Pedraza Dimas Leandro* | Programador/a - Modelador/a | Ingeniería Biomédica |
+| <img src="/Recursos/Imágenes/IsabelGomez.jpeg" width="90" height="90"/> | *Gómez Vargas Isabel Ángeles* | Diseñadora | Ingeniería Biomédica |
+| <img src="/Recursos/Imágenes/GreciaGutierrez.jpeg" width="90" height="90"/> | *Gutiérrez Pacuri Grecia Valentina* | Encargada de documentación | Ingeniería Biomédica |
+| <img src="/Recursos/Imágenes/NataliBaquerizo.jpeg" width="90" height="90"/> | *Baquerizo Dávila Natalia Andrea* | Programadora - Modeladora | Ingeniería Biomédica |
+| <img src="/Recursos/Imágenes/DimasAquino.jpeg" width="90" height="90"/> | *Aquino Pedraza Dimas Leandro* | Programador - Modelador | Ingeniería Biomédica |
 ---
 
 ## 📌 Resumen Final  
