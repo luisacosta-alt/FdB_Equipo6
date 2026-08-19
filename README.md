@@ -1,4 +1,4 @@
-#   FdB_Eq6
+#   FdB_Equipo 6
 ### Carrera de Ingeniería Biomedica  
 *Universidad Peruana Cayetano Heredia*
 
